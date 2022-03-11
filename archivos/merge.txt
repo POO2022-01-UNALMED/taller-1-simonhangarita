@@ -1,0 +1,1 @@
+Ya que ahora la carpeta archivo no estaba vacía, si reconoció los cambios y se pudo crear el commit
