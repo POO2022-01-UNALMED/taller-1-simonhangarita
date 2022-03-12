@@ -1,0 +1,4 @@
+Simon Henao Angarita
+Edad = 19
+Aspiraciones = Espero que al acabar el curso adquiera muchas habilidades de programación orientada a objetos y tener
+muy claros los conceptos para afrontar los proximos cursos de mi carrera con mayor destreza.
