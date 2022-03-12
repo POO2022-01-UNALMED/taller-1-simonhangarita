@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 Simon Henao Angarita
 Edad = 19
 Aspiraciones = Espero que al acabar el curso adquiera muchas habilidades de programación orientada a objetos y tener
 muy claros los conceptos para afrontar los proximos cursos de mi carrera con mayor destreza.
-=======
 Ya que ahora la carpeta archivo no estaba vacía, si reconoció los cambios y se pudo crear el commit
 - Es importante tener cuidado con modificar dos archivos simultaneamente porque esto puede generar errores
 como el que por ejemplo acaba de ocurrir, ya que se hicieron modificaciones distintas sobre el mismo archivo
